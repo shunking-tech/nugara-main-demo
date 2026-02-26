@@ -346,8 +346,6 @@ h1, h2, h3 {
 }
 
 .footer-grid {
-    display: flex;
-    justify-content: space-between;
     margin-bottom: 60px;
 }
 
